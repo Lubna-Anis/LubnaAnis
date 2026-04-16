@@ -103,11 +103,10 @@ Git | GitHub | VS Code
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me  
 
-📧 Email: [lubnaanis786@gmail.com](mailto:lubnaanis786@gmail.com)
-💼 LinkedIn: lubnaanis
-
+📧 Email: lubnaanis786@gmail.com  
+💼 LinkedIn: [Lubna Anis](https://www.linkedin.com/in/lubnaanis)
 ---
 
 ## 💫 Goal
