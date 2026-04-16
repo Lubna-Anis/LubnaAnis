@@ -47,7 +47,7 @@ Git | GitHub | VS Code
 
 ## 📸 Project Preview
 
-![Swadeshi Learning](https://via.placeholder.com/800x400?text=Swadeshi+Learning+Platform)
+<img src="ImageOfSwadeshi.png" width="100%" />  
 
 ---
 
@@ -64,7 +64,7 @@ Git | GitHub | VS Code
 
 ## 📸 Project Preview
 
-![Spotify Clone](https://via.placeholder.com/800x400?text=Spotify+Clone+Preview)
+<img src="imageOfSpotifyClone.png" width="100%" />  
 
 ---
 
